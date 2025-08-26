@@ -4,7 +4,7 @@
 }
 
 #body {
-  font-family: "Inter", sans-serif;
+  font-family: Inter, sans-serif;
 }
 
 #section1 {
@@ -54,6 +54,10 @@ p {
   display: inline-block;
 }
 
+.topnavn button {
+    background-color: #4f9cf9;
+}
+
 .section1-1 {
   display: flex;
   flex-wrap: wrap;
@@ -93,19 +97,19 @@ p {
   h1 {
     font-size: 36px;
   }
-      
+
   p {
     font-size: 18px;
   }
-      
+
   .textbox {
     width: 100%;
   }
-      
+
   .image-container {
     width: 100%;
   }
-      
+
   #section1 {
     height: 130vh;
   }
@@ -165,15 +169,15 @@ p {
   .textbox2 {
     width: 100%;
   }
-  
+
   .image-container2-1 {
     width: 100%;
   }
-  
+
   .imgcontainer2-2 {
     width: 100%;
   }
-  
+
   .textbox21 {
     width: 100%;
   }
@@ -230,11 +234,11 @@ p {
   #sec3 {
     height: 100vh;
   }
-  
+
   .textbox35 {
     width: 100%;
   }
-  
+
   .bluebox {
     padding-top: 5%;
     width: 100%;
@@ -244,7 +248,7 @@ p {
   .textbox3 {
     width: 100%;
   }
-  
+
   .image-container3 {
     width: 100%;
   }
@@ -306,7 +310,7 @@ p {
     height: 100vh;
     align-items: flex-start;
   }
-  
+
   .textbox5 {
     width: 100%;
   }
@@ -359,7 +363,7 @@ p {
   .textbox7 {
     width: 100%;
   }
-  
+
   .logos {
     width: 25%;
   }

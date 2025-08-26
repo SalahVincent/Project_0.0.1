@@ -91,25 +91,25 @@ p {
 
 @media screen and (max-width: 320px) {
   h1 {
-      font-size: 36px;
-        }
+    font-size: 36px;
+  }
       
   p {
-      font-size: 18px;
-        }
+    font-size: 18px;
+  }
       
   .textbox {
-      width: 100%;
-        }
+    width: 100%;
+  }
       
   .image-container {
-      width: 100%;
-        }
+    width: 100%;
+  }
       
   #section1 {
-      height: 130vh;
-        }
+    height: 130vh;
   }
+}
 
 #section2 {
   height: 180vh;
@@ -163,20 +163,20 @@ p {
 
 @media screen and (max-width: 320px) {
   .textbox2 {
-      width: 100%;
-        }
+    width: 100%;
+  }
   
   .image-container2-1 {
-      width: 100%;
-        }
+    width: 100%;
+  }
   
   .imgcontainer2-2 {
-      width: 100%;
-    }
+    width: 100%;
+  }
   
   .textbox21 {
-      width: 100%;
-        }
+    width: 100%;
+  }
 }
 
 #sec3 {
@@ -228,27 +228,27 @@ p {
 
 @media screen and (max-width: 320px) {
   #sec3 {
-      height: 100vh;
-        }
+    height: 100vh;
+  }
   
   .textbox35 {
-      width: 100%;
-        }
+    width: 100%;
+  }
   
   .bluebox {
-      padding-top: 5%;
-      width: 100%;
-      height: 15%;
-        }
+    padding-top: 5%;
+    width: 100%;
+    height: 15%;
+  }
 
   .textbox3 {
-      width: 100%;
-        }
+    width: 100%;
+  }
   
   .image-container3 {
-      width: 100%;
-        }
+    width: 100%;
   }
+}
 
 #sec4 {
   height: 110vh;
@@ -272,18 +272,18 @@ p {
 
 @media screen and (max-width: 320px) {
   #sec4 {
-      height: 220vh;
-      align-items: flex-start;
-        }
-  
+    height: 220vh;
+    align-items: flex-start;
+  }
+
   .textbox4 {
-      width: 100%;
-        }
+    width: 100%;
+  }
 
   .boxes {
-      flex-wrap: wrap;
-        }
+    flex-wrap: wrap;
   }
+}
 
 #sec5 {
   height: 60vh;
@@ -303,13 +303,13 @@ p {
 
 @media screen and (max-width: 320px) {
   #sec5 {
-      height: 100vh;
-      align-items: flex-start;
-        }
+    height: 100vh;
+    align-items: flex-start;
+  }
   
   .textbox5 {
-      width: 100%;
-        }
+    width: 100%;
+  }
 }
 
 #sec6 {
@@ -357,12 +357,12 @@ p {
 
 @media screen and (max-width: 320px) {
   .textbox7 {
-      width: 100%;
-        }
+    width: 100%;
+  }
   
   .logos {
-      width: 25%;
-        }
+    width: 25%;
+  }
 }
 
 #sec8 {

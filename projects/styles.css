@@ -4,7 +4,7 @@
 }
 
 #body {
-  font-family: "inter", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 #section1 {
@@ -33,10 +33,8 @@ p {
 
 #topnavn {
   justify-items: flex-end;
-  width: auto;
-  height: 60px;
   gap: 60px;
-  width: 551px;
+  width: auto;
   height: 24px;
 }
 
@@ -48,7 +46,7 @@ p {
 
 .topnavn nav ul {
   display: inline-block;
-  font-family: 'DM Sans';
+  font-family: "DM Sans", sans-serif;
 }
 
 .topnavn nav ul li {
@@ -71,7 +69,7 @@ p {
 }
 
 .section1-1text p {
-  color: white
+  color: white;
 }
 
 .section1-1text h1 {
@@ -95,19 +93,19 @@ p {
   h1 {
       font-size: 36px;
         }
-  
+      
   p {
       font-size: 18px;
         }
-  
+      
   .textbox {
       width: 100%;
         }
-  
+      
   .image-container {
       width: 100%;
         }
-  
+      
   #section1 {
       height: 130vh;
         }

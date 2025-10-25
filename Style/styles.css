@@ -24,9 +24,6 @@ header {
   color: white;
 }
 
-.logo {
-}
-
 .login {
   background: #ffe492;
   border-radius: 8px;
@@ -69,12 +66,6 @@ header {
 .topnavn nav ul li {
   display: flex;
   align-items: center;
-}
-
-.dropdown {
-}
-
-.arrowimg {
 }
 
 .section1-1 {
@@ -171,6 +162,10 @@ button {
   width: 50%;
 }
 
+.section2 {
+  background: url("../images/BACKGROUND.png");
+}
+
 .sect2-text {
   margin: 0 0 0 15px;
 }
@@ -232,7 +227,6 @@ button {
 
 #sec4 {
   height: auto;
-  background: url();
 }
 
 .textbox4 {
@@ -243,9 +237,6 @@ button {
 .text4 h1 {
   font-weight: 700;
   font-size: 300%;
-}
-
-.boxescontainer {
 }
 
 .boxes {
@@ -262,9 +253,6 @@ button {
   border-radius: 20px;
   border: 1px solid #ffc492;
   padding: 20px;
-}
-
-.box1text {
 }
 
 .box2 {
@@ -284,7 +272,7 @@ button {
 
 #sec5 {
   height: auto;
-  background: #043873 url(../images/BACKGROUND.png);
+  background: #043873 url("../images/BACKGROUND.png");
   background-size: 200px;
   background-position: center;
   color: white;
@@ -314,9 +302,6 @@ button {
   align-items: center;
 }
 
-.textbox6 {
-}
-
 .text6 h1 {
   font-weight: 700;
   font-size: 300%;
@@ -343,9 +328,6 @@ button {
   font-size: 300%;
 }
 
-.image-container7 {
-}
-
 .logos {
   display: flex;
   justify-content: space-between;
@@ -354,13 +336,10 @@ button {
   margin: 2% 0;
 }
 
-.logos img {
-}
-
 #sec8 {
   height: auto;
   color: white;
-  background: #043873 url(../images/Element\(1\).png);
+  background: #043873 url("../images/Element\(1\).png");
   background-position: 60% 35%;
   background-size: 120% 100%;
 }
@@ -382,9 +361,6 @@ button {
 
 .image-container8 img {
   width: 70%;
-}
-
-.textbox8 {
 }
 
 .text8 h1 {
@@ -419,9 +395,6 @@ button {
   padding: 20px;
 }
 
-.text9 {
-}
-
 .textbox10 {
   background: #4f9cf9;
   border-radius: 5px;
@@ -429,17 +402,11 @@ button {
   padding: 20px;
 }
 
-.text10 {
-}
-
 .textbox11 {
   background: #4f9cf9;
   border-radius: 5px;
   color: white;
   padding: 20px;
-}
-
-.text11 {
 }
 
 .footsec1 {
@@ -611,13 +578,10 @@ button {
     width: 100%;
   }
 
-  .logos {
-    width: 100%;
-  }
-
   .reviews {
     overflow: scroll;
   }
+
   .section1-1text,
   .sec2text,
   .sect2-text,
@@ -630,10 +594,13 @@ button {
     align-items: center;
     justify-content: space-between;
   }
+
   .logos {
+    width: 100%;
     flex-direction: column;
     align-items: center;
   }
+
   .apple {
     height: 44px;
     width: 44px;

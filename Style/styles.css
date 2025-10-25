@@ -42,7 +42,7 @@ header {
 .topnavn nav ul {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: row;
+  flex-flow: row;
   gap: 25px;
   list-style: none;
   font-family: "DM Sans", sans-serif;
@@ -57,7 +57,7 @@ header {
 }
 
 .box2 ul li {
-  margin: 20px 0 20px;
+  margin: 20px 0; margin-left: 20px;
   list-style: none;
   display: flex;
   align-items: center;
@@ -99,11 +99,6 @@ button {
   background: #4f9cf9;
   border-radius: 5px;
   border: none;
-}
-
-.tryfree,
-.trytask,
-.readmore {
 }
 
 .image-container {

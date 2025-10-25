@@ -9,7 +9,7 @@ body {
 
 #section1 {
   height: auto;
-  background: #043873 url(../images/Element\(1\).png);
+  background: #043873 url("../images/Element\(1\).png");
   background-position: 50% 55%;
   background-size: 140% 80%;
 }
@@ -39,6 +39,7 @@ header {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
+  gap: 15px;
 }
 
 .topnavn nav ul {
@@ -47,16 +48,27 @@ header {
   flex-direction: row;
   gap: 25px;
   list-style: none;
-  font-family: DM Sans, sans-serif;
+  font-family: "DM Sans", sans-serif;
+}
+
+.box1 ul li,
+.box3 ul li {
+  margin: 10px 0 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.box2 ul li {
+  margin: 20px 0 20px;
+  list-style: none;
+  display: flex;
+  align-items: center;
 }
 
 .topnavn nav ul li {
   display: flex;
   align-items: center;
-}
-
-.topnavn nav {
-  gap: 15px;
 }
 
 .dropdown {
@@ -125,8 +137,9 @@ button {
 }
 
 .sec2text h1 {
-    font-weight: 700;
-    font-size: 300%;}
+  font-weight: 700;
+  font-size: 300%;
+}
 
 .getstarted {
   border: none;
@@ -251,14 +264,6 @@ button {
   padding: 20px;
 }
 
-.box1 ul li,
-.box3 ul li {
-  margin: 10px 0 0;
-  list-style: none;
-  display: flex;
-  align-items: center;
-}
-
 .box1text {
 }
 
@@ -268,13 +273,6 @@ button {
   border-radius: 20px;
   color: white;
   padding: 20px;
-}
-
-.box2 ul li {
-  margin: 20px 0 20px;
-  list-style: none;
-  display: flex;
-  align-items: center;
 }
 
 .box3 {
@@ -351,7 +349,7 @@ button {
 .logos {
   display: flex;
   justify-content: space-between;
-  gap:3%;
+  gap: 3%;
   width: 100%;
   margin: 2% 0;
 }
@@ -457,7 +455,7 @@ button {
   text-align: center;
 }
 
-.fsec1text h1{
+.fsec1text h1 {
   font-weight: 700;
   font-size: 300%;
 }

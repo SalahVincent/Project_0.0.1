@@ -18,7 +18,7 @@
 - CSS styles
 
 ## Prerequisites
-Knowledge about 
+Knowledge about
 - HTML
 - CSS
 
@@ -35,8 +35,8 @@ Steps:
 ## Live site
 -[Link](https://salahvincent.github.io/Project_0.0.1/)
 
-## Author 
-** Vincent Salah **
+## Author
+"** Vincent Salah **"
 
 - GitHub:
 [@SalahVincent](https://github.com/SalahVincent)

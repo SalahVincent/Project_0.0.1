@@ -36,7 +36,7 @@ Steps:
 -[Link](https://salahvincent.github.io/Project_0.0.1/)
 
 ## Author
-"** Vincent Salah **"
+**Vincent Salah**
 
 - GitHub:
 [@SalahVincent](https://github.com/SalahVincent)

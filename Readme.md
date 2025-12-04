@@ -1,10 +1,10 @@
-## PROJECT NAME
+# PROJECT NAME
 - Whitespace Figma Design
 
-### Project description
+## Project description
 - Building a fully responsive copy of the whitespace figma design from https://www.figma.com/design/Ip0YLscX7e46Dxu1cVreDB/Whitepace---SaaS-Landing-Page-(Community)?node-id=9-100&p=f&t=ph5rB3i6qTqdcPAu-0
 
-#### Folder Structure
+### Folder Structure
 - Project_0.0.1
     - .GitHub
         - workflows
@@ -16,7 +16,7 @@
     - index.html
     - Readme.md
 
-### Project Commands
+#### Project Commands
 clone to local directory:
 - clone: git clone https://github.com/SalahVincent/Project_0.0.1
 

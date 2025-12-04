@@ -6,7 +6,7 @@
 
 #### Folder Structure
 - Project_0.0.1
-    - .github
+    - .GitHub
         - workflows
             - linter.yml
     - images

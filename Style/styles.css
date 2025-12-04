@@ -31,6 +31,14 @@ header {
   color: #043873;
 }
 
+.topnavn {
+  width: 100vw;
+}
+
+.topnavn-btns {
+  display: flex;
+}
+
 .topnavn nav {
   display: flex;
   justify-content: space-between;
@@ -327,6 +335,7 @@ button {
 
 .logos {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   gap: 3%;
   width: 100%;
@@ -387,21 +396,21 @@ button {
 }
 
 .textbox9 {
-  box-shadow: 2px 1px 20px;
-  border-radius: 5px;
+  box-shadow: 0 0 5px -2px;
+  border-radius: 10px;
   padding: 20px;
 }
 
 .textbox10 {
   background: #4f9cf9;
-  border-radius: 5px;
+  border-radius: 10px;
   color: white;
   padding: 20px;
 }
 
 .textbox11 {
   background: #4f9cf9;
-  border-radius: 5px;
+  border-radius: 10px;
   color: white;
   padding: 20px;
 }

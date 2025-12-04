@@ -5,7 +5,7 @@
 - ![Whitespace](./images/Whitespace.png)
 
 ## About
-- Building a fully responsive copy of the whitespace figma design. This should be done using either flexbox or grid with respective images from the figma webpage
+- Building a fully responsive copy of the whitespace figma design. This should be done using either flexbox or grid with respective images from the figma web page
 - Preview of some sections
   - ![preview1](./images/preview1.png)
   - ![preview2](./images/preview2.png)
@@ -14,8 +14,8 @@
 - Full details about the figma design can be accessed here, "https://www.figma.com/design/Ip0YLscX7e46Dxu1cVreDB/Whitepace---SaaS-Landing-Page-(Community)?node-id=9-100&p=f&t=ph5rB3i6qTqdcPAu-0"
 
 ## Built With
-- Html 5
-- Css styles
+- HTML 5
+- CSS styles
 
 ## Prerequisites
 Knowledge about 

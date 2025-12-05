@@ -635,23 +635,22 @@ button {
     justify-content: center;
   }
 
-  .boxes {
-    overflow: scroll;
-  }
-
   .sec8box {
-    height: 85vh;
+    height: 100vh;
     display: block;
   }
 
   .box1,
-  .box2,
+  .box2 {
+    display: none;
+  }
   .box3 {
     width: 100%;
   }
 
-  .reviews {
-    overflow: scroll;
+  .textbox9,
+  .textbox11 {
+    display: none;
   }
 
   .section1-1text,

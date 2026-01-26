@@ -523,6 +523,7 @@ button {
 
   .section1-1 {
     flex-wrap: wrap;
+    height: 100vh;
   }
 
   .section1-1text,
@@ -549,7 +550,7 @@ button {
   }
 
   .sec2-1 {
-    height: 80vh;
+    height: 100vh;
     flex-wrap: wrap;
   }
 
@@ -598,7 +599,7 @@ button {
 
   .sec35box {
     flex-wrap: wrap;
-    height: 90vh;
+    height: 100vh;
   }
 
   .image-container35 {
@@ -636,7 +637,7 @@ button {
   }
 
   .sec8box {
-    height: 100vh;
+    height: 115vh;
     display: block;
   }
 
